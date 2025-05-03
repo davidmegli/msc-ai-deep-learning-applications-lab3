@@ -2,3 +2,7 @@
 /features
 /results
 /wandb
+/model_final
+/distilbert_lora
+/checkpoints_lora
+/logs_lora
